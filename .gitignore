@@ -7,7 +7,6 @@
 /public/storage
 /storage/*.key
 /vendor
-.env
 .env.backup
 .phpunit.result.cache
 docker-compose.override.yml
@@ -17,3 +16,6 @@ npm-debug.log
 yarn-error.log
 /.idea
 /.vscode
+config.bat
+temp_auto_push.bat
+temp_interactive_push.bat
